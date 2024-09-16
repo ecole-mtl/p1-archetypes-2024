@@ -2,6 +2,9 @@
 
 ## Format
 
+
+test
+
 1. **Standard de Format**  
    Assurez-vous que la photo ou l'image soit au format JPG standard. Les fichiers doivent se terminer par `.jpg`. Si votre image est en format `.webp` ou `.avif`, veuillez la convertir en `.jpg` via Photoshop ou un convertisseur en ligne.  
    [Exemple de convertisseur en ligne](https://image.online-convert.com/fr/convertir-en-jpg)
